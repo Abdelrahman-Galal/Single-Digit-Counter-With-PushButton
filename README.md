@@ -10,4 +10,4 @@ When the push button is pushed for a long period , counting order (ascending, de
 
 All componets used are in the .csv sheet.<br />
 
-The circuit digram is attachd in .png file.
+The circuit digram is attachd in .png file
